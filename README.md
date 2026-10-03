@@ -292,31 +292,6 @@ This shows that early academic performance can provide useful information for pr
 
 ---
 
-## 🚀 Future Improvements
-
-Future development could include:
-
-* Using **SMOTE** to improve class imbalance.
-* Hyperparameter tuning.
-* Testing XGBoost and LightGBM.
-* Using cross-validation.
-* Adding more semesters of student data.
-* Adding **Explainable AI (SHAP)**.
-* Developing a real-time university dashboard.
-* Testing the model with data from other universities.
-* Developing an early prediction model using information available at enrollment.
-
----
-
-## ⚠️ Limitations
-
-* The model has lower performance for the Enrolled class.
-* The dataset mainly contains information from the first two semesters.
-* The current system is a prototype and is not directly connected to a university information system.
-* Model performance may change when applied to data from a different university.
-
----
-
 ## 👨‍💻 Author
 
 **Ashrif Ahamed**
